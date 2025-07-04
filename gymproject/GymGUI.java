@@ -1,3 +1,8 @@
+// added comments and organized imports
+// This code is part of a Gym Management System that provides a GUI for managing gym members.
+// It includes functionalities for both Regular and Premium members, such as registration, attendance tracking, membership upgrades, and file I/O operations.
+// The GUI is built using Java Swing and includes various components like buttons, text fields, labels
+
 package gymproject;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -8,6 +13,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+//ghjk
 
 import javax.swing.*;
 
